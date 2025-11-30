@@ -4,4 +4,4 @@
 2.  [ASSOCIENTION](CDS_View/SAP_Technomaniac/ZDDLS_ASSOCIATION_ERI.ABAP) -> Cds com association entre duas tabelas. Uso de report para exibir campo não passado na cds, usando [expressão de caminho](CDS_View/SAP_Technomaniac/ZPRG_ASSOCIATION_ERI.ABAP).
 3.  Impacto da [cardinalidade](CDS_View/SAP_Technomaniac/ZDDLS_SAMPLE_04_ERI.ABAP) em associetions com exemplo report com _select sum_ e com uso do [REDUCE](CDS_View/SAP_Technomaniac/ZPRG_SAMPLE_04_ERI.ABAP) para somar valores da tabela interna.
 4.  Uso de condicionais como [filtro](CDS_View/SAP_Technomaniac/ZDDLS_SAMPLE_05_ERI.ABAP) após as chaves primarias e com condicionais como filtro pelos campos de exibição.
-5.  Cds com [asssociation entre 4 tabelas](), porém ao usar $projection em uma das tabelas, não permite exibir coluna de descrição. Sendo necessário [criar outra CDS]() para consumir e exibir. 
+5.  Cds com [asssociation entre 4 tabelas](), porém ao usar _$projection_ em uma das tabelas, não permite exibir coluna de descrição. Sendo necessário [criar outra CDS]() para consumir e exibir. 
